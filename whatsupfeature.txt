@@ -1,0 +1,16 @@
+welcome whatsup
+
+whats up is messanger app 
+
+can be used for communication purpose
+
+available feature
+
+message 
+
+status
+
+video call
+
+audio call
+
